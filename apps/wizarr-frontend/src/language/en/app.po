@@ -165,6 +165,10 @@ msgstr ""
 msgid "Automatic Media Requests"
 msgstr ""
 
+#: src/modules/help/components/Jellyfin/Download.vue:56
+msgid "Other Download"
+msgstr ""
+
 #: src/modules/help/views/Help.vue:19 src/modules/setup/views/Setup.vue:26
 #: src/modules/setup/views/Setup.vue:38 src/modules/setup/views/Setup.vue:41
 #: src/templates/SettingsTemplate.vue:15

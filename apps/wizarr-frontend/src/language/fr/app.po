@@ -176,7 +176,7 @@ msgstr "Êtes-vous sûr(e) ?"
 
 #: src/modules/help/components/Request.vue:4
 msgid "Automatic Media Requests"
-msgstr ""
+msgstr "Demandes d'ajout automatiques"
 
 #: src/modules/help/views/Help.vue:19 src/modules/setup/views/Setup.vue:26
 #: src/modules/setup/views/Setup.vue:38 src/modules/setup/views/Setup.vue:41
@@ -195,7 +195,7 @@ msgstr "Fichier de sauvegarde"
 
 #: src/modules/settings/pages/Main.vue:234
 msgid "Bug Reporting"
-msgstr ""
+msgstr "Rapport de bug"
 
 #: src/modules/settings/pages/Sentry.vue:14
 msgid ""
@@ -213,7 +213,7 @@ msgstr "Vérifier la présence de mise à jour"
 
 #: src/modules/help/components/Request.vue:27
 msgid "Check it Out"
-msgstr ""
+msgstr "Découvrez l'outil"
 
 #: src/modules/settings/pages/Discord.vue:30
 msgid "Click \"Widget\" on the left hand sidebar."
@@ -644,6 +644,11 @@ msgid ""
 "download the Jellyfin app on your device, sign in with your account, and "
 "you're ready to start streaming your media. It's that easy!"
 msgstr ""
+"Cela ne pourrait pas être plus simple ! Jellyfin est disponible sur une grande "
+"variétée d'appareils, comme les ordinateurs, tablettes, smartphones, et télévisions. "
+"Tout ce que vous avez à faire est de télécharger l'application Jellyfin sur votre "
+"appareil, vous connecter à votre compte et vous serez prêt à lire votre contenu. "
+"C'est aussi simple que cela !"
 
 #: src/modules/help/components/Jellyfin/Welcome.vue:6
 msgid ""
@@ -671,6 +676,10 @@ msgstr "Rejoindre et télécharger"
 #: src/modules/help/components/Plex/Download.vue:4
 msgid "Join & Download Plex for this device"
 msgstr "Rejoindre et télécharger Plex pour cet appareil"
+
+#: src/modules/help/components/Jellyfin/Download.vue:56
+msgid "Other Download"
+msgstr "Autres téléchargements"
 
 #: src/modules/admin/components/Invitations/InvitationList/InvitationItem.vue:104
 msgid "Join my media server"
@@ -805,7 +814,7 @@ msgstr "Serveur multimédia"
 
 #: src/modules/help/components/Request.vue:17
 msgid "Media will be automatically downloaded to your library"
-msgstr ""
+msgstr "Les contenus seront automatiquement téléchargés dans votre bibliothèque"
 
 #: src/modules/help/components/Discord.vue:8
 msgid "Members Online"
@@ -1076,7 +1085,7 @@ msgstr "Demander un accès"
 
 #: src/modules/help/components/Request.vue:13
 msgid "Request any available Movie or TV Show"
-msgstr ""
+msgstr "Demandez n'importe quel film ou série TV"
 
 #: src/modules/settings/pages/Main.vue:108
 msgid "Requests"
@@ -1118,7 +1127,7 @@ msgstr "Restaurer une sauvegarde"
 
 #: src/modules/help/components/Jellyfin/Welcome.vue:10
 msgid "Right, so how do I watch stuff?"
-msgstr ""
+msgstr "Bien, comment je regarde quelque chose ?"
 
 #: src/modules/admin/components/Invitations/InvitationList/InvitationItem.vue:118
 #: src/modules/admin/components/Users/UserList/UserItem.vue:119
@@ -1516,6 +1525,10 @@ msgid ""
 "user-friendly request system that can automatically search for the media "
 "you're looking for."
 msgstr ""
+"Nous sommes ravis de vous offrir une grande sélection de contenu à lire. "
+"Si vous ne trouvez pas ce que vous cherchez, pas de panique ! Nous avons un "
+"système facile à utiliser pour automatiquement ajouter le contenu que vous 
+" recherchez."
 
 #: src/modules/settings/pages/Sentry.vue:16
 msgid ""
@@ -1660,7 +1673,7 @@ msgstr ""
 
 #: src/modules/help/components/Request.vue:21
 msgid "You can recieve notifications when your media is ready"
-msgstr ""
+msgstr "Vous recevez une notification lorsque le contenu est prêt à être lu"
 
 #: src/modules/setup/pages/Complete.vue:7
 #: src/modules/setup/pages/Complete.vue:9

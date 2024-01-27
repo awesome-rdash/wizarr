@@ -53,7 +53,7 @@
             </span>
             <span class="flex justify-end items-center">
                 <a href="https://jellyfin.org/downloads" target="_blank" class="text-sm font-medium text-primary flex flex-row">
-                    Other Download
+                    {{ __("Other Download") }}
                     <i class="fas fa-download ml-2 mt-[2px]"></i>
                 </a>
             </span>
